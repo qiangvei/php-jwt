@@ -1,0 +1,14 @@
+{
+  "name": "qiangvei/php-jwt",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "qiang",
+      "email": "qiangvei@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
