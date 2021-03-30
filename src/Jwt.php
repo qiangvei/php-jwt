@@ -1,5 +1,5 @@
 <?php
-
+namespace Jwt;
 
 class Jwt
 {
