@@ -1,6 +1,7 @@
 {
   "name": "qiangvei/php-jwt",
-  "description": "description",
+  "type": "library",
+  "description": "php lib",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
@@ -10,5 +11,6 @@
     }
   ],
   "require": {
+    "php": ">=7.4"
   }
 }
