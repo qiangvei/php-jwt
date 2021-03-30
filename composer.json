@@ -2,7 +2,7 @@
   "name": "qiangvei/php-jwt",
   "type": "library",
   "description": "php lib",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
@@ -11,7 +11,8 @@
     }
   ],
   "require": {
-    "php": ">=7.1"
+    "php": ">=7.1",
+    "qiangvei/php-jwt": "master"
   },
   "autoload": {
     "psr-4": {
